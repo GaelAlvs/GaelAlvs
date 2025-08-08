@@ -9,8 +9,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, aprendizados 
 🌱 Atualmente me aprofundando em front-end e UI/UX  
 📍 Brasil
 
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,21 +20,12 @@ Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, aprendizados 
 ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX-000000?style=flat&logo=adobe&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
-
-## 📈 Estatísticas do GitHub
-
 <div align="center">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaelAlvs&show_icons=true&theme=radical"/> -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=GaelAlvs&theme=radical&hide_border=true)](https://git.io/streak-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaelAlvs&layout=compact&theme=radical"/>
 </div>
-
----
-
-## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bielalves/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabriel.alvs19@gmail.com)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://portfolio-liard-three-18.vercel.app/)
-
----
