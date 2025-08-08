@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, aprendizados 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaelAlvs&show_icons=true&theme=radical"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaelAlvs&show_icons=true&theme=radical"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaelAlvs&layout=compact&theme=radical"/>
 </div>
 
@@ -40,5 +40,3 @@ Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, aprendizados 
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://portfolio-liard-three-18.vercel.app/)
 
 ---
-
-⭐️ Obrigado por visitar meu perfil!
