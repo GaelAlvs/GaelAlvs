@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Gabriel Macedo Alves
 
-Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, aprendizados e experiências nas áreas de desenvolvimento web, design de interfaces e programação.
+Aqui compartilho meus projetos, aprendizados e experiências nas áreas de desenvolvimento web, design de interfaces e programação.
 
 ## 🚀 Sobre mim
 
