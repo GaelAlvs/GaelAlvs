@@ -26,6 +26,8 @@ Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, aprendizados 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaelAlvs&layout=compact&theme=radical"/>
 </div>
 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bielalves/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabriel.alvs19@gmail.com)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://portfolio-liard-three-18.vercel.app/)
