@@ -20,9 +20,9 @@ Bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, aprendizados 
 ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX-000000?style=flat&logo=adobe&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GaelAlvs&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 <div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaelAlvs&show_icons=true&theme=radical"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaelAlvs&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaelAlvs&layout=compact&theme=radical"/>
 </div>
 
