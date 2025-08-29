@@ -6,7 +6,7 @@ Aqui compartilho meus projetos, aprendizados e experiências nas áreas de desen
 
 🎓 Apaixonado por tecnologia, design e desenvolvimento  
 💡 Foco em criar experiências digitais com qualidade e usabilidade  
-🌱 Atualmente me aprofundando em front-end e UI/UX  
+🌱 Me aperfeiçoando em front-end e UI/UX  
 📍 São Paulo - SP, Brasil
 
 ## 🛠️ Tecnologias e Ferramentas
