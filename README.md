@@ -4,9 +4,8 @@ Aqui compartilho meus projetos, aprendizados e experiências nas áreas de desen
 
 ## 🚀 Sobre mim
 
-🎓 Apaixonado por tecnologia, design e desenvolvimento  
-💡 Foco em criar experiências digitais com qualidade e usabilidade  
-🌱 Me aperfeiçoando em front-end e UI/UX  
+🎓 Apaixonado por tecnologia, design e desenvolvimento   
+🌱 Me aperfeiçoando em desenvolvimento fullstack 
 📍 São Paulo - SP, Brasil
 
 ## 🛠️ Tecnologias e Ferramentas
