@@ -6,7 +6,7 @@ Aqui compartilho meus projetos, aprendizados e experiências nas áreas de desen
 
 🎓 Apaixonado por tecnologia, design e desenvolvimento   
 🌱 Me aperfeiçoando em desenvolvimento fullstack 
-📍 São Paulo - SP, Brasil
+📍  São Paulo - SP, Brasil
 
 ## 🛠️ Tecnologias e Ferramentas
 
