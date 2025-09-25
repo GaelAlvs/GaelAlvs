@@ -5,7 +5,7 @@ Aqui compartilho meus projetos, aprendizados e experiências nas áreas de desen
 ## 🚀 Sobre mim
 
 🎓 Apaixonado por tecnologia, design e desenvolvimento   
-🌱 Me aperfeiçoando em desenvolvimento fullstack    
+🌱 Desenvolvedor Fullstack Júnior    
 📍  São Paulo - SP, Brasil
 
 ## 🛠️ Tecnologias e Ferramentas
