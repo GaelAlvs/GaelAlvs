@@ -28,12 +28,6 @@ Aqui compartilho meus projetos, aprendizados e experiências nas áreas de desen
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX-000000?style=flat&logo=adobe&logoColor=white)
 
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaelAlvs&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaelAlvs&layout=compact&theme=radical"/>
-</div>
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bielalves/)
